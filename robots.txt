@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://code929-maker.github.io/ignatius-J-wanyoike-portfolio/sitemap.xml
